@@ -1,0 +1,28 @@
+name: billiam
+favicon: null
+layout_spectrum: 0.26332267187535763
+typography_spectrum: 0.9293530711438507
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.28551793773658574
+  lightness: 0.9505345737561584
+  saturation: 0.15258329128846526
+  rhythmicContrast: 0.14607021445408463
+purpose: []
